@@ -14,13 +14,13 @@ html,body{
     background: linear-gradient(#3d0101, #230000, #3d0101);
 }
 .img img{
-    width: 350px;
+    width: 340px;
     border-radius: 30px;
     border: 3px solid #fff;
     box-shadow: 0px 0px 20px #ecff72;
 }
 h1{
-    font-size: 50px;
+    font-size: 48px;
     text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
 }
 .text1{
