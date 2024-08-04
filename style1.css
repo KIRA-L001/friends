@@ -19,7 +19,7 @@ html,body{
     transform: rotate(-5deg);
     border: #dadada solid 3px;
     box-shadow: 0px 0px 20px #ecff72;
-    
+    margin-left: 5px;
 }
 .img2 img{
     width: 330px;
@@ -27,6 +27,7 @@ html,body{
     transform: rotate(5deg);
     border: #dadada solid 3px;
     box-shadow: 0px 0px 20px #ecff72;
+    margin-left: 5px;
 }
 h1{
     font-size: 39px;
