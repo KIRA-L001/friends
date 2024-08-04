@@ -17,11 +17,13 @@ html,body{
     margin-top: 40px;
     display: flex;
     align-items: center;
+    font-size: 14px;
 }
 .img2{
     margin-top: 40px;
     display: flex;
     align-items: center;
+    font-size: 14px;
 }
 .img3{
     margin-top: 40px;
@@ -29,11 +31,14 @@ html,body{
     align-items: center;
 }
 .text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 40px;
     font-size: 30px;
 }
 .img2 h1{
-    margin: 0px 15px;
+    margin: 0px 10px;
 }
 img{
     border-radius: 10px;
@@ -44,13 +49,18 @@ h1{
     text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
 }
 .img1 img{
-    width: 195px;
+    width: 190px;
 }
 .img2 img{
     width: 200px;
 }
+.img3{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
 .img3 img{
-    width: 373px;
+    width: 300px;
 }
 button{
     margin-top: 40px;   
